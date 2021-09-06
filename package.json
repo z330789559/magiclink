@@ -1,0 +1,75 @@
+{
+  "name": "magic-link-serve",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "egg": {
+    "declarations": true
+  },
+  "dependencies": {
+    "@polkadot/api": "^5.7.1",
+    "@polkadot/api-contract": "^3.7.3",
+    "@polkadot/hw-ledger": "^7.3.1",
+    "@polkadot/keyring": "^7.3.1",
+    "@polkadot/networks": "^7.3.1",
+    "@polkadot/typegen": "^3.7.3",
+    "@polkadot/types": "^5.7.1",
+    "@polkadot/types-known": "^5.7.1",
+    "@polkadot/types-support": "^5.7.1",
+    "@polkadot/util": "^7.3.1",
+    "@polkadot/util-crypto": "^7.3.1",
+    "@polkadot/wasm-crypto": "^3.2.2",
+    "dotenv": "8.2.0",
+    "egg": "^2.15.1",
+    "egg-cors": "^2.2.3",
+    "egg-email": "^1.0.2",
+    "egg-mysql": "^3.0.0",
+    "egg-scripts": "^2.11.0",
+    "egg-sequelize": "^6.0.0",
+    "egg-shell-decorators": "^1.6.0",
+    "egg-socket.io": "^4.1.6",
+    "egg-swagger-doc": "^2.3.2",
+    "forever": "^3.0.4",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {
+    "autod": "^3.0.1",
+    "autod-egg": "^1.1.0",
+    "cross-env": "^6.0.3",
+    "egg-bin": "^4.11.0",
+    "egg-ci": "^1.11.0",
+    "egg-mock": "^3.21.0",
+    "egg-sequelize-auto": "^0.1.1",
+    "eslint": "^5.13.0",
+    "eslint-config-egg": "^7.1.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "build:defs": "yarn generate:defs && yarn generate:meta",
+    "generate:defs": "ts-node --skip-project node_modules/.bin/polkadot-types-from-defs --package ./interfaces  --input ./src/interfaces",
+    "generate:meta": "ts-node --skip-project node_modules/.bin/polkadot-types-from-chain --package ./interfaces --endpoint ./edgeware.json --output ./src/interfaces",
+    "start": "egg-scripts start --sticky --title=egg-server-attemper --ignore-stderr",
+    "stop": "egg-scripts stop --title=egg-server-attemper",
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug",
+    "test": "npm run lint -- --fix && npm run test-local",
+    "test-local": "egg-bin test",
+    "cov": "egg-bin cov",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm run cov",
+    "autod": "autod"
+  },
+  "ci": {
+    "version": "10"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "libaozhong",
+  "license": "MIT"
+}

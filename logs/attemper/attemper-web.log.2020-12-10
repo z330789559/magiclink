@@ -1,0 +1,15 @@
+2020-12-10 16:36:45,958 ERROR 49810 [-/127.0.0.1/-/7ms GET /query?address=5G1QfcZWMREnH52Nngsh3GwHBeJCs9faPudC4s9NHL9qeu7Q] nodejs.Error: WebSocket is not connected
+    at assert (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/node_modules/@polkadot/util/assert.js:34:11)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:457:26
+    at new Promise (<anonymous>)
+    at WsProvider.send (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:455:12)
+    at callWithRegistry (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-core/index.js:259:40)
+    at Observable._subscribe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-core/index.js:266:9)
+    at Observable._trySubscribe (/Users/libaozhong/熊涛/node/attemper/node_modules/rxjs/internal/Observable.js:44:25)
+    at Observable.subscribe (/Users/libaozhong/熊涛/node/attemper/node_modules/rxjs/internal/Observable.js:30:22)
+    at Observable.ConnectableObservable.connect (/Users/libaozhong/熊涛/node/attemper/node_modules/rxjs/internal/observable/ConnectableObservable.js:47:18)
+    at RefCountOperator.call (/Users/libaozhong/熊涛/node/attemper/node_modules/rxjs/internal/operators/refCount.js:33:49)
+
+pid: 49810
+hostname: libaozhongdeMacBook-Pro.local
+

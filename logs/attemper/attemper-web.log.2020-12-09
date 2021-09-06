@@ -1,0 +1,1667 @@
+2020-12-07 10:21:34,993 ERROR 98053 [-/127.0.0.1/-/11ms GET /] nodejs.TypeError: Cannot read property 'demo' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:9:51)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 98053
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 10:22:05,816 ERROR 98053 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'demo' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:9:51)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 98053
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 10:45:39,969 ERROR 99063 [-/127.0.0.1/-/1359351ms GET /] nodejs.TypeError: Cannot read property 'demo' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:9:51)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 99063
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 10:46:22,825 ERROR 14489 [-/127.0.0.1/-/12925ms GET /] nodejs.TypeError: Cannot read property 'demo' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:47)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 14489
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 10:50:19,261 ERROR 14489 [-/127.0.0.1/-/226206ms GET /] nodejs.TypeError: Cannot read property 'demo' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:47)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 14489
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 12:02:30,744 ERROR 62975 [-/127.0.0.1/-/26771ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/base_context_class.js:25:20)
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg/lib/core/base_context_class.js:13:1)
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:10:5)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+
+pid: 62975
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 13:33:51,526 ERROR 22300 [-/127.0.0.1/-/6223ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/base_context_class.js:25:20)
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg/lib/core/base_context_class.js:13:1)
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:10:5)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+
+pid: 22300
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 13:34:24,161 ERROR 22300 [-/127.0.0.1/-/7820ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/base_context_class.js:25:20)
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg/lib/core/base_context_class.js:13:1)
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:10:5)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+
+pid: 22300
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 13:37:10,518 ERROR 24423 [-/127.0.0.1/-/8330ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/base_context_class.js:25:20)
+    at new BaseContextClass (/Users/libaozhong/熊涛/node/attemper/node_modules/egg/lib/core/base_context_class.js:13:1)
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:10:5)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+
+pid: 24423
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 13:53:10,810 ERROR 34128 [-/127.0.0.1/-/4767ms GET /] nodejs.TypeError: this.setStatus is not a function
+    at transaction (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:155:12)
+    at TransactionService.transaction (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:165:13)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:44)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+
+pid: 34128
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 14:15:35,143 ERROR 49205 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'derive' of undefined
+    at AppBootHook.serverDidReady (/Users/libaozhong/熊涛/node/attemper/app.js:34:24)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/lifecycle.js:207:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 49205
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 18:01:17,695 ERROR 52215 [-/127.0.0.1/-/23108ms GET /] nodejs.TypeError: api.query[palletRpc][callable] is not a function
+    at query (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:132:58)
+    at transaction (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:159:21)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 52215
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 18:01:54,204 ERROR 52215 [-/127.0.0.1/-/22541ms GET /] nodejs.TypeError: Cannot read property 'query' of undefined
+    at query (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:132:32)
+    at transaction (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:159:21)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 52215
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 18:08:03,660 ERROR 99658 [-/127.0.0.1/-/39909ms GET /] nodejs.ReferenceError: utils is not defined
+    at isNumType (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:197:33)
+    at /Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:189:13
+    at Array.reduce (<anonymous>)
+    at transformParams (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:173:21)
+    at signedTx (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:97:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 99658
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 18:12:30,733 ERROR 3110 [-/127.0.0.1/-/34330ms GET /] nodejs.ReferenceError: props is not defined
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:12:18)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+
+pid: 3110
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 18:22:48,235 ERROR 7503 [-/127.0.0.1/-/261448ms GET /] nodejs.ReferenceError: props is not defined
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:12:18)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+
+pid: 7503
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:07:21,355 ERROR 73684 [-/127.0.0.1/-/334209ms GET /] nodejs.ReferenceError: props is not defined
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:12:18)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+
+pid: 73684
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:14:20,976 ERROR 81164 [-/127.0.0.1/-/52630ms GET /] nodejs.ReferenceError: props is not defined
+    at new TransactionService (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:12:18)
+    at getInstance (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:92:18)
+    at ClassLoader.get (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/context_loader.js:27:22)
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+
+pid: 81164
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:15:15,685 ERROR 81967 [-/127.0.0.1/-/15636ms GET /] nodejs.ReferenceError: utils is not defined
+    at isNumType (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:198:33)
+    at /Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:190:13
+    at Array.reduce (<anonymous>)
+    at transformParams (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:174:21)
+    at signedTx (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:98:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 81967
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:16:05,003 ERROR 82649 [-/127.0.0.1/-/6463ms GET /] nodejs.TypeError: this.setStatus is not a function
+    at txErrHandler (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:71:12)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async signedTx (/Users/libaozhong/熊涛/node/attemper/app/service/transaction.js:105:21)
+    at async HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:10:18)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+
+pid: 82649
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:35:45,253 ERROR 95172 [-/127.0.0.1/-/2041ms GET /] nodejs.TypeError: Cannot read property 'getPair' of undefined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:13:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 95172
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-07 20:37:24,590 ERROR 95962 [-/127.0.0.1/-/35939ms GET /] nodejs.TypeError: Keyring.getPair is not a function
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:13:32)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 95962
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 10:32:47,441 ERROR 19488 [-/127.0.0.1/-/0ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1128:14)
+    --------------------
+    at Protocol._enqueue (/Users/libaozhong/熊涛/node/attemper/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/libaozhong/熊涛/node/attemper/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/libaozhong/熊涛/node/attemper/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/libaozhong/熊涛/node/attemper/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/libaozhong/熊涛/node/attemper/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/libaozhong/熊涛/node/attemper/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: "ECONNREFUSED"
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 3306
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 19488
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 10:44:30,996 ERROR 20935 [-/127.0.0.1/-/595698ms GET /] nodejs.ReferenceError: Keyring is not defined
+    at HomeController.index (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:13:24)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 20935
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 10:53:49,026 ERROR 33589 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'epochDuration' of undefined
+    at AppBootHook.didLoad (/Users/libaozhong/熊涛/node/attemper/app.js:24:33)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 33589
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 11:14:12,996 ERROR 46675 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'derive' of undefined
+    at AppBootHook.serverDidReady (/Users/libaozhong/熊涛/node/attemper/app.js:47:24)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/lifecycle.js:207:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 46675
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 11:16:28,496 ERROR 47360 [-/127.0.0.1/-/6ms GET /transfor] nodejs.ReferenceError: BOB is not defined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:28:17)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 47360
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 11:54:37,238 ERROR 71374 [-/127.0.0.1/-/6ms GET /transfor] nodejs.ReferenceError: Cannot access 'api' before initialization
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:27:38)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 71374
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 11:55:48,798 ERROR 73048 [-/127.0.0.1/-/36ms GET /transfor] nodejs.ReferenceError: keyring is not defined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:29:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/koa-static-cache/index.js:41:56
+
+pid: 73048
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 11:56:28,976 ERROR 73729 [-/127.0.0.1/-/74ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:33:8)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 73729
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:34:21,273 ERROR 85393 [-/127.0.0.1/-/79ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:33:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 85393
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:37:10,322 ERROR 37518 [-/127.0.0.1/-/26027ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:33:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 37518
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:38:00,028 ERROR 37518 [-/127.0.0.1/-/2768ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:33:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 37518
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:39:50,776 ERROR 37518 [-/127.0.0.1/-/108186ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:33:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 37518
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:48:12,492 ERROR 44399 [-/127.0.0.1/-/11ms GET /setAccountAmount] nodejs.ReferenceError: keyring is not defined
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:53:22)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/koa-static-cache/index.js:41:56
+
+pid: 44399
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 13:49:16,679 ERROR 45738 [-/127.0.0.1/-/12ms GET /setAccountAmount] nodejs.Error: Unable to retrieve keypair '0xd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d'
+    at assert (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/util/assert.js:36:11)
+    at Pairs.get (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/pairs.js:42:22)
+    at Keyring.getPair (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:263:76)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:53:30)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 45738
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:04:14,801 ERROR 56021 [-/127.0.0.1/-/79ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:35:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 56021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:06:01,310 ERROR 56021 [-/127.0.0.1/-/67ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:35:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 56021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:07:34,301 ERROR 56021 [-/127.0.0.1/-/804ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:35:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+
+pid: 56021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:13:14,692 ERROR 61214 [-/127.0.0.1/-/19157ms GET /transfor] nodejs.Error: createType(Call):: Struct: failed on 'args':: Struct: failed on 'dest':: Decoding [object Object]: value.substr is not a function
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:68:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:80:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:254:39)
+    at extrinsicFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/metadata/Decorated/extrinsics/fromMetadata/createUnchecked.js:21:21)
+    at Object.decorated [as transfer] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:317:46)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:35:38)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 61214
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:24:01,940 ERROR 68406 [-/127.0.0.1/-/74ms GET /transfor] nodejs.ReferenceError: isNumType is not defined
+    at /Users/libaozhong/熊涛/node/attemper/app/controller/home.js:39:5
+    at Array.reduce (<anonymous>)
+    at transformParams (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:23:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:74:57)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 68406
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:25:29,972 ERROR 69526 [-/127.0.0.1/-/68ms GET /transfor] nodejs.ReferenceError: utils is not defined
+    at isNumType (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:8:29)
+    at /Users/libaozhong/熊涛/node/attemper/app/controller/home.js:58:9
+    at Array.reduce (<anonymous>)
+    at transformParams (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:42:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:93:57)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+
+pid: 69526
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:26:43,294 ERROR 70311 [-/127.0.0.1/-/70ms GET /transfor] nodejs.ReferenceError: isNumType is not defined
+    at /Users/libaozhong/熊涛/node/attemper/app/controller/home.js:39:5
+    at Array.reduce (<anonymous>)
+    at transformParams (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:23:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:94:57)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 70311
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:27:24,779 ERROR 70771 [-/127.0.0.1/-/171ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 70771
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:27:25,490 ERROR 70771 [-/127.0.0.1/-/135ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 70771
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:28:54,222 ERROR 70771 [-/127.0.0.1/-/44101ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 70771
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:31:23,646 ERROR 72996 [-/127.0.0.1/-/5911ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 72996
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:32:34,575 ERROR 74009 [-/127.0.0.1/-/9013ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 74009
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 14:38:15,537 ERROR 77622 [-/127.0.0.1/-/6966ms GET /transfor] nodejs.Error: 1002: Verification Error: Execution: Could not convert parameter `tx` between node and runtime: No such variant in enum MultiSignature: RuntimeApi("Execution: Could not convert parameter `tx` between node and runtime: No such variant in
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:215:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/Provider.js:195:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 77622
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:17:31,044 ERROR 3764 [-/127.0.0.1/-/11027ms GET /transfor] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 3764
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:25:17,904 ERROR 8584 [-/127.0.0.1/-/7ms GET /createAccount] nodejs.TypeError: utils.generatorAddress(...).toJSON is not a function
+    at HomeController.createAccount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:153:37)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 8584
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:25:41,229 ERROR 9028 [-/127.0.0.1/-/11ms GET /setAccountAmount] nodejs.Error: Unable to retrieve keypair '0xd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d'
+    at assert (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/util/assert.js:34:11)
+    at Pairs.get (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/pairs.js:42:22)
+    at Keyring.getPair (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:263:76)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:137:30)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 9028
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:26:45,830 ERROR 9820 [-/127.0.0.1/-/6ms GET /createAccount] nodejs.ReferenceError: Keyring is not defined
+    at Object.util.generatorAddress (/Users/libaozhong/熊涛/node/attemper/app/extend/helper.js:49:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/koa-static-cache/index.js:41:56
+
+pid: 9820
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:27:42,278 ERROR 10489 [-/127.0.0.1/-/7ms GET /createAccount] nodejs.TypeError: Keyring is not a constructor
+    at Object.util.generatorAddress (/Users/libaozhong/熊涛/node/attemper/app/extend/helper.js:49:19)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/koa-static-cache/index.js:41:56
+
+pid: 10489
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:30:10,576 ERROR 12085 [-/127.0.0.1/-/11ms GET /setAccountAmount] nodejs.Error: Unable to retrieve keypair '0xd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d'
+    at assert (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/util/assert.js:34:11)
+    at Pairs.get (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/pairs.js:42:22)
+    at Keyring.getPair (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:263:76)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:137:30)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 12085
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:40:21,505 ERROR 17436 [-/127.0.0.1/-/6ms GET /setAccountAmount] nodejs.ReferenceError: Cannot access 'keyring' before initialization
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:132:19)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 17436
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:41:12,265 ERROR 19004 [-/127.0.0.1/-/34ms GET /setAccountAmount] nodejs.Error: Unable to retrieve keypair '5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw'
+    at assert (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/util/assert.js:34:11)
+    at Pairs.get (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/pairs.js:42:22)
+    at Keyring.getPair (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:263:76)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:139:30)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+
+pid: 19004
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:54:26,432 ERROR 26778 [-/127.0.0.1/-/5ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: Cannot read property 'get' of undefined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:107:35)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 26778
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 15:59:49,680 ERROR 26778 [-/127.0.0.1/-/309457ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: Cannot read property 'get' of undefined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:107:35)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 26778
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:02:00,120 ERROR 32149 [-/127.0.0.1/-/16365ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: Cannot read property 'get' of undefined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:108:35)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 32149
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:03:30,447 ERROR 33157 [-/127.0.0.1/-/19900ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: Cannot read property 'get' of undefined
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:108:35)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 33157
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:06:18,254 ERROR 35066 [-/127.0.0.1/-/6282ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: utils.getMemo is not a function
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:108:22)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 35066
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:06:45,054 ERROR 35066 [-/127.0.0.1/-/18386ms GET /transfor?address=14zp3o5fmWsEph7Rj7KpG4v8yGDLS6CLrVZ3mURTs6nJzhki] nodejs.TypeError: utils.getMemo is not a function
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:108:22)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 35066
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:09:49,269 ERROR 36427 [-/127.0.0.1/-/79534ms GET /transfor?address=15KJJyxinQazpF5QS5VLwwSgQfvFPbLavSsv7JcbkWYnmTcn] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 36427
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:11:00,846 ERROR 37540 [-/127.0.0.1/-/12155ms GET /transfor?address=16HqCGmbRSoofj4NpPf6RMkDCk3scxwWutFCrceNpj8HBj4M] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 37540
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:13:19,028 ERROR 38788 [-/127.0.0.1/-/49241ms GET /transfor?address=1KnM89XwyQXUiK9PDpVVYoBRBSxbC8tXspVmzkqcjmvy5GB] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 38788
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:23:02,204 ERROR 38788 [-/127.0.0.1/-/581126ms GET /transfor?address=1KnM89XwyQXUiK9PDpVVYoBRBSxbC8tXspVmzkqcjmvy5GB] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+headerSent: true
+pid: 38788
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:23:02,204 ERROR 38788 [-/127.0.0.1/-/5456ms GET /transfor?address=1KnM89XwyQXUiK9PDpVVYoBRBSxbC8tXspVmzkqcjmvy5GB] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 38788
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:43:27,583 ERROR 58498 [-/127.0.0.1/-/40ms GET /query?address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'config' of undefined
+    at Object.util.formatBalance (/Users/libaozhong/熊涛/node/attemper/app/extend/helper.js:17:25)
+    at HomeController.query (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:24:44)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 58498
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:45:27,426 ERROR 59183 [-/127.0.0.1/-/51ms GET /transfor?address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:110:25)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 59183
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:52:01,306 WARN 63646 [-/127.0.0.1/-/24ms POST /addAccount] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-08 16:52:01,308 WARN 63646 [-/127.0.0.1/-/26ms POST /addAccount] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 63646
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 16:55:09,852 WARN 65709 [-/127.0.0.1/-/1ms POST /addAccount] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-08 16:55:09,853 WARN 65709 [-/127.0.0.1/-/3ms POST /addAccount] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 65709
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 17:11:41,128 ERROR 76302 [-/127.0.0.1/-/34ms GET /transfor?fromAddress=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz&address=139DapvC8egwnxkybfEpxKC8UNoWkEoKN9dmwTqK4in3jB2y] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 76302
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 17:14:55,607 ERROR 76302 [-/undefined/-/175134ms GET /transfor?fromAddress=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz&address=139DapvC8egwnxkybfEpxKC8UNoWkEoKN9dmwTqK4in3jB2y] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+headerSent: true
+pid: 76302
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 17:14:55,607 ERROR 76302 [-/127.0.0.1/-/3494ms GET /transfor?fromAddress=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz&address=139DapvC8egwnxkybfEpxKC8UNoWkEoKN9dmwTqK4in3jB2y] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 76302
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 17:15:40,466 ERROR 76302 [-/127.0.0.1/-/13214ms GET /transfor?fromAddress=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz&address=16TVdTHokVzehKzXtNF4WPAnGN5pLKHgqjGYkdEnvVVNXh7] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at runNextTicks (internal/process/task_queues.js:62:3)
+    at processImmediate (internal/timers.js:412:9)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+
+pid: 76302
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:01:44,205 ERROR 98646 [-/127.0.0.1/-/29ms GET /transfor?fromAddress=16TVdTHokVzehKzXtNF4WPAnGN5pLKHgqjGYkdEnvVVNXh7&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at Keyring.addFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:182:30)
+    at Keyring.addFromMnemonic (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:157:17)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 98646
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:04:56,940 ERROR 98646 [-/127.0.0.1/-/149ms GET /transfor?fromAddress=16TVdTHokVzehKzXtNF4WPAnGN5pLKHgqjGYkdEnvVVNXh7&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.Error: 1014: Priority is too low: (1309442467730 vs 1309442467730): The transaction has too low priority to replace another transaction already in the pool.
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 98646
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:31:02,371 ERROR 27381 [-/127.0.0.1/-/0ms GET /] nodejs.Error: createType(undefined):: Cannot read property 'toString' of undefined
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:71:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:83:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:257:39)
+    at ApiPromise.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:162:82)
+    at AppBootHook.didLoad (/Users/libaozhong/熊涛/node/attemper/app.js:26:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 27381
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:47:51,711 ERROR 38024 [-/127.0.0.1/-/0ms GET /] nodejs.Error: createType(undefined):: Cannot read property 'toString' of undefined
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:71:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:83:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:257:39)
+    at ApiPromise.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:162:82)
+    at AppBootHook.didLoad (/Users/libaozhong/熊涛/node/attemper/app.js:26:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 38024
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:48:21,877 ERROR 38362 [-/127.0.0.1/-/0ms GET /] nodejs.Error: createType(undefined):: Cannot read property 'toString' of undefined
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:71:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:83:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:257:39)
+    at ApiPromise.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:162:82)
+    at AppBootHook.didLoad (/Users/libaozhong/熊涛/node/attemper/app.js:26:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 38362
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:52:46,904 ERROR 41144 [-/127.0.0.1/-/0ms GET /] nodejs.Error: createType(undefined):: Cannot read property 'toString' of undefined
+    at createTypeUnsafe (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:71:11)
+    at createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/createType.js:83:10)
+    at TypeRegistry.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/types/create/registry.js:257:39)
+    at ApiPromise.createType (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/base/Decorate.js:162:82)
+    at AppBootHook.didLoad (/Users/libaozhong/熊涛/node/attemper/app.js:26:9)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+
+pid: 41144
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:58:04,034 ERROR 41471 [-/127.0.0.1/-/158ms GET /transfor?fromAddress=16TVdTHokVzehKzXtNF4WPAnGN5pLKHgqjGYkdEnvVVNXh7&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 41471
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:59:33,253 ERROR 41471 [-/127.0.0.1/-/154ms GET /transfor?fromAddress=13NcE6EAgt9G96VC2dDGNqazjRDTK25YT9tDLQXiJERQV261&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 41471
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 18:59:44,726 ERROR 41471 [-/127.0.0.1/-/134ms GET /transfor?fromAddress=13NcE6EAgt9G96VC2dDGNqazjRDTK25YT9tDLQXiJERQV261&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 41471
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:00:58,851 ERROR 41471 [-/127.0.0.1/-/159ms GET /transfor?fromAddress=13NcE6EAgt9G96VC2dDGNqazjRDTK25YT9tDLQXiJERQV261&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 41471
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:03:45,751 ERROR 46999 [-/127.0.0.1/-/173ms GET /transfor?fromAddress=1Civr8U8zA95xfgFksL8CnVLREN8bWzJ2Sp4JZcYQaogaHF&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 46999
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:05:06,853 ERROR 46999 [-/127.0.0.1/-/52982ms GET /transfor?fromAddress=1Civr8U8zA95xfgFksL8CnVLREN8bWzJ2Sp4JZcYQaogaHF&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 46999
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:06:52,510 ERROR 49222 [-/127.0.0.1/-/5765ms GET /transfor?fromAddress=12x4KrXuzsKBDxzYUJtTGQKuHhWjT2PWznnZGoCr6WQo64vY&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 49222
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:11:10,444 ERROR 49222 [-/127.0.0.1/-/77609ms GET /transfor?fromAddress=12x4KrXuzsKBDxzYUJtTGQKuHhWjT2PWznnZGoCr6WQo64vY&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 49222
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:13:42,849 ERROR 54348 [-/127.0.0.1/-/4204ms GET /transfor?fromAddress=13SuMgzyLexxS1V3SB37oA5k6rVvGXg16GmyfSD6YDmGqf9t&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 54348
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:15:57,905 ERROR 55267 [-/127.0.0.1/-/2036ms GET /transfor?fromAddress=0x129667b4b9cbe57a2367b3fe627310a96724ebe936d61c276e040c1ab69dcf45&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 55267
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:17:05,312 ERROR 55267 [-/undefined/-/58397ms GET /transfor?fromAddress=0x129667b4b9cbe57a2367b3fe627310a96724ebe936d61c276e040c1ab69dcf45&address=165ZAmvmS5iUxDLsxxTbSb1ZkHvgZ4n68s4qU7oE5zbf3c3S] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+headerSent: true
+pid: 55267
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:17:25,261 ERROR 55267 [-/127.0.0.1/-/3017ms GET /transfor?fromAddress=16TVdTHokVzehKzXtNF4WPAnGN5pLKHgqjGYkdEnvVVNXh7&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 55267
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:17:42,909 ERROR 55267 [-/127.0.0.1/-/1869ms GET /transfor?fromAddress=14LXFjb8HvLcggtqm8TyjGEpc5gnvMXa1BVEFMxMoS1mxKZ&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 55267
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:18:16,868 ERROR 55267 [-/127.0.0.1/-/29686ms GET /transfor?fromAddress=14LXFjb8HvLcggtqm8TyjGEpc5gnvMXa1BVEFMxMoS1mxKZ&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 55267
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:23:53,508 ERROR 60802 [-/127.0.0.1/-/37ms GET /transfor?fromAddress=16aKBRD3t5YHnTsKsfBhggEngzYVFS9VKhhAdvLuZfZ1ujv5&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 60802
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-08 19:25:26,838 ERROR 61802 [-/127.0.0.1/-/19ms GET /transfor?fromAddress=16aKBRD3t5YHnTsKsfBhggEngzYVFS9VKhhAdvLuZfZ1ujv5&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.transfor (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:113:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async /Users/libaozhong/熊涛/node/attemper/node_modules/egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:7)
+    at async bodyParser (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-bodyparser/index.js:95:5)
+
+pid: 61802
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 09:45:31,118 ERROR 69218 [-/127.0.0.1/-/148ms GET /transfor?fromAddress=16aKBRD3t5YHnTsKsfBhggEngzYVFS9VKhhAdvLuZfZ1ujv5&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 69218
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 09:46:31,907 ERROR 69218 [-/127.0.0.1/-/38856ms GET /transfor?fromAddress=16aKBRD3t5YHnTsKsfBhggEngzYVFS9VKhhAdvLuZfZ1ujv5&address=1yDShRG7t4mLmjQQ5q9aekAGmJpnMSGzjHrdrGkq9n4t3Yz] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 69218
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:00:16,377 WARN 32756 [-/127.0.0.1/-/3ms POST /setAccountAmount] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-09 14:00:16,379 WARN 32756 [-/127.0.0.1/-/6ms POST /setAccountAmount] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/app/extend/context.js:162:32)
+    at csrf (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 32756
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:01:02,808 ERROR 32756 [-/127.0.0.1/-/19404ms POST /setAccountAmount] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 32756
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:02:43,448 ERROR 34212 [-/127.0.0.1/-/2602ms POST /setAccountAmount] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:27)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+
+pid: 34212
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:03:17,862 ERROR 34212 [-/127.0.0.1/-/12512ms POST /setAccountAmount] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:27)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+
+pid: 34212
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:03:31,071 ERROR 34212 [-/127.0.0.1/-/11221ms POST /setAccountAmount] nodejs.TypeError: Cannot read property 'startsWith' of undefined
+    at Keyring.createFromUri (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:221:24)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:27)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+
+pid: 34212
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:04:51,896 ERROR 35890 [-/127.0.0.1/-/13700ms POST /setAccountAmount] nodejs.ReferenceError: utils is not defined
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:108:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:45:18)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:44:32)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/koa-compose/index.js:36:12
+
+pid: 35890
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:05:56,888 ERROR 36235 [-/127.0.0.1/-/37074ms POST /setAccountAmount] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 36235
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:06:26,175 ERROR 36235 [-/127.0.0.1/-/2757ms POST /setAccountAmount] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 36235
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:08:20,708 ERROR 36235 [-/127.0.0.1/-/62402ms POST /setAccountAmount] nodejs.Error: 1010: Invalid Transaction: Inability to pay some fees , e.g. account balance too low
+    at RpcCoder._checkError (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:84:13)
+    at RpcCoder.decodeResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/coder/index.js:47:10)
+    at WsProvider.value (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:212:90)
+    at W3CWebSocket.value [as onmessage] (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/rpc-provider/ws/index.js:192:153)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/libaozhong/熊涛/node/attemper/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:234:14)
+    at WebSocketConnection.<anonymous> (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:210:5)
+    at WebSocketConnection.processFrame (/Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:554:26)
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/websocket/lib/WebSocketConnection.js:323:40
+
+pid: 36235
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:09:17,911 ERROR 38789 [-/127.0.0.1/-/3976ms POST /setAccountAmount] nodejs.RuntimeError: unreachable
+    at wasm-function[87]:0x162d7
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/wasm-crypto/index.js:158:8
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/wasm-crypto/bridge.js:34:12
+    at schnorrkelKeypairFromSeed (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/util-crypto/schnorrkel/keypair/fromSeed.js:20:88)
+    at Object.sr25519 (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:30:62)
+    at Keyring.addFromSeed (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:172:29)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:27)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+
+pid: 38789
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:19:50,884 ERROR 38789 [-/127.0.0.1/-/10299ms POST /setAccountAmount] nodejs.RuntimeError: unreachable
+    at wasm-function[87]:0x162d7
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/wasm-crypto/index.js:158:8
+    at /Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/wasm-crypto/bridge.js:34:12
+    at schnorrkelKeypairFromSeed (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/util-crypto/schnorrkel/keypair/fromSeed.js:20:88)
+    at Object.sr25519 (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:30:62)
+    at Keyring.addFromSeed (/Users/libaozhong/熊涛/node/attemper/node_modules/@polkadot/api/node_modules/@polkadot/keyring/keyring.js:172:29)
+    at HomeController.setAccountAmount (/Users/libaozhong/熊涛/node/attemper/app/controller/home.js:111:27)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/libaozhong/熊涛/node/attemper/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/libaozhong/熊涛/node/attemper/node_modules/@eggjs/router/lib/utils.js:12:21)
+
+pid: 38789
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:21:00,150 ERROR 46021 [-/127.0.0.1/-/25679ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 46021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:21:38,469 ERROR 46021 [-/127.0.0.1/-/200ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 46021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:23:07,830 ERROR 46021 [-/127.0.0.1/-/28760ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 46021
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:23:59,463 ERROR 48249 [-/127.0.0.1/-/186ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 48249
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:24:18,056 ERROR 48249 [-/127.0.0.1/-/223ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 48249
+hostname: libaozhongdeMacBook-Pro.local
+
+2020-12-09 14:24:41,666 ERROR 48249 [-/127.0.0.1/-/197ms POST /setAccountAmount] nodejs.TypeError: The "string" argument must be one of type string, Buffer, or ArrayBuffer. Received type undefined
+    at Function.byteLength (buffer.js:693:11)
+    at respond (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:272:25)
+    at handleResponse (/Users/libaozhong/熊涛/node/attemper/node_modules/koa/lib/application.js:166:34)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+code: "ERR_INVALID_ARG_TYPE"
+pid: 48249
+hostname: libaozhongdeMacBook-Pro.local
+

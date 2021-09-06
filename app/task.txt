@@ -1,0 +1,3 @@
+BTC-true
+ETH-true
+ETCC-true

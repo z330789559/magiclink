@@ -1,0 +1,18 @@
+2020-12-10 14:37:49,851 DEBUG 49771 [Job#1607582269829856392789113131] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js finish event received by agent from worker#49810
+2020-12-10 19:07:49,045 DEBUG 49810 [Job#16075984690081018382864940981] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js task received by app
+2020-12-10 19:07:49,045 INFO 49810 [Job#16075984690081018382864940981] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-12-10 19:07:49,060 INFO 49810 [Job#16075984690081018382864940981] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 14ms. 
+2020-12-10 19:07:49,015 DEBUG 49771 [Job#16075984690081018382864940981] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js triggered, send random by agent
+2020-12-10 19:07:49,038 INFO 49771 [Timer] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33730977ms at 2020-12-11 04:30:00.015
+2020-12-10 19:07:49,066 DEBUG 49771 [Job#16075984690081018382864940981] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-multipart/app/schedule/clean_tmpdir.js finish event received by agent from worker#49810
+2020-12-11 13:42:14,874 DEBUG 49771 [Job#16076653348641193694751551112] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2020-12-11 13:42:14,896 INFO 49771 [Timer] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37065115ms at 2020-12-12 00:00:00.010
+2020-12-11 13:42:14,929 DEBUG 49771 [Job#16076653348641193694751551112] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js finish event received by agent from worker#49810
+2020-12-11 13:42:14,907 DEBUG 49810 [Job#16076653348641193694751551112] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js task received by app
+2020-12-11 13:42:14,907 INFO 49810 [Job#16076653348641193694751551112] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-12-11 13:42:14,922 INFO 49810 [Job#16076653348641193694751551112] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 14ms. 
+2020-12-11 13:42:15,850 DEBUG 49810 [Job#16076653358471193704582537552] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2020-12-11 13:42:15,850 INFO 49810 [Job#16076653358471193704582537552] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-12-11 13:42:15,855 INFO 49810 [Job#16076653358471193704582537552] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms. 
+2020-12-11 13:42:15,849 DEBUG 49771 [Job#16076653358471193704582537552] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2020-12-11 13:42:15,853 INFO 49771 [Timer] /Users/libaozhong/熊涛/node/attemper/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37065149ms at 2020-12-12 00:00:01.001
