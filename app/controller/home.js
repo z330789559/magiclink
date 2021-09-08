@@ -96,7 +96,8 @@ class HomeController extends Controller {
     const { ctx,service, app} = this;
     const utils =app.utils;
     const keyring=app.keyring;
-    ctx.body =await utils.generatorAddress(keyring);
+  const {pair} =await utils.generatorAddress(keyring);
+    ctx.body=pair.address;
   }
 
 
@@ -104,15 +105,17 @@ class HomeController extends Controller {
    * @description create account 
    * @router get /sendTelegram
    * @request query string address 
+   * @request query string url 
    * @response   string
    */
    async sendTelegram(){
     const { ctx,service, app} = this;
     const address=this.ctx.query.address;
+    const url=  his.ctx.query.url;
     const utils =app.utils;
     const mnemonic=utils.getMemo(address);
     utils.remove(address);
-    ctx.body =telegramUrl+"&mnemonic="+encodeURIComponent(mnemonic);
+    ctx.body =url+telegramUrl+"&mnemonic="+encodeURIComponent(mnemonic);
   }
 
 
