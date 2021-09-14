@@ -111,7 +111,7 @@ class HomeController extends Controller {
     if(!address||!userId||!url){
       ctx.body={
         result:'false',
-        msg:'账户信息不能为空'
+        msg:'account info is null'
       }
     }
     const utils =app.utils;
