@@ -9,9 +9,8 @@ const gloabl_api=require('@polkadot/api')
 const types= require("@polkadot/types")
 const { Post, IgnoreJwtAll, TagsAll, Get }=require('egg-shell-decorators');
 const {u8aToHex } = require('@polkadot/util');
-const { ContractPromise,CodePromise } = require('@polkadot/api-contract');
-
-const telegramUrl=""
+const telegramUrl="https://api.telegram.org/bot1706359637:AAFIsYP06QSGnOeiTfeDcU0G9JOqiUcSvNU/sendMessage"
+var request = require('request');
 const transformParams = (paramFields, inputParams, opts = { emptyAsNull: true },utils) => {
 
   // if `opts.emptyAsNull` is true, empty param value will be added to res as `null`.
@@ -103,19 +102,33 @@ class HomeController extends Controller {
 
   /**
    * @description create account 
-   * @router get /sendTelegram
-   * @request query string address 
-   * @request query string url 
-   * @response   string
+   * @router post /sendTelegram
+   * @request body AccountInfo *body
    */
    async sendTelegram(){
     const { ctx,service, app} = this;
-    const address=this.ctx.query.address;
-    const url=  his.ctx.query.url;
+    const {address,userId,url}=this.ctx.request.body;
+    if(!address||!userId||!url){
+      ctx.body={
+        result:'false',
+        msg:'账户信息不能为空'
+      }
+    }
     const utils =app.utils;
     const mnemonic=utils.getMemo(address);
     utils.remove(address);
-    ctx.body =url+telegramUrl+"&mnemonic="+encodeURIComponent(mnemonic);
+    var options = {
+      method:"POST",
+      json: true,
+      body:{
+        "chat_id":userId,
+        "text": `${url}?mnemonic=${encodeURIComponent(mnemonic)}`
+      }
+
+    };
+    let res =await request(telegramUrl,options)
+
+    ctx.body =res;
   }
 
 

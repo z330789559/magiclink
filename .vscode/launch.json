@@ -12,6 +12,9 @@
     "--",
     "--inspect-brk"
     ],
+    "env":{
+    "https_proxy":"http://127.0.0.1:53636"
+    },
     "protocol": "auto",
     "port": 9229,
     "autoAttachChildProcesses": true,

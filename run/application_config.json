@@ -265,7 +265,9 @@
         "egg-socket.io": "^4.1.6",
         "egg-swagger-doc": "^2.3.2",
         "forever": "^3.0.4",
-        "nodemailer": "^6.6.3"
+        "nodemailer": "^6.6.3",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
       },
       "devDependencies": {
         "autod": "^3.0.1",

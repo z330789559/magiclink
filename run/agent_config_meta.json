@@ -247,7 +247,9 @@
       "egg-socket.io": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",
       "egg-swagger-doc": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",
       "forever": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",
-      "nodemailer": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js"
+      "nodemailer": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",
+      "request": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",
+      "request-promise": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
       "autod": "/Users/libaozhong/yidian/testAttemper/node_modules/egg/config/config.default.js",

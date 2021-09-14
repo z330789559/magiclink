@@ -139,6 +139,11 @@ const queryPublishTokenRequest={
   amount: { type: "number", required: true, description: "交易的金额" },
   address: { type: "string", required: true, description: "查询账号" },
 }
+const AccountInfo={
+  address: { type: "string", required: true, description: "magic 地址" },
+  userId:{ type: "string", required: true, description: "telegram id" },
+  url:{ type: "string", required: true, description: "recover account url" },
+}
 module.exports = {
   transferFromRequest: transferFromRequest,
   approveRequest,
@@ -164,7 +169,8 @@ module.exports = {
   addSwapTokenRequest,
   sendInterestRequest,
   changeTaskStatusRequest,
-  queryPublishTokenRequest
+  queryPublishTokenRequest,
+  AccountInfo
 };
 
 
