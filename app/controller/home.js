@@ -107,8 +107,8 @@ class HomeController extends Controller {
    */
    async sendTelegram(){
     const { ctx,service, app} = this;
-    const {address,userId,url}=this.ctx.request.body;
-    if(!address||!userId||!url){
+    const {address,userId,url,oldAccount}=this.ctx.request.body;
+    if(!address||!userId||!url||!oldAccount){
       ctx.body={
         result:'false',
         msg:'account info is null'
@@ -128,7 +128,7 @@ class HomeController extends Controller {
       json: true,
       body:{
         "chat_id":userId,
-        "text": `${url}?mnemonic=${encodeURIComponent(mnemonic)}&address=${address}`
+        "text": `${url}?mnemonic=${encodeURIComponent(mnemonic)}&address=${address}&oldAccount=${oldAccount}`
       }
 
     };

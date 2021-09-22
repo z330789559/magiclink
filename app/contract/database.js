@@ -143,6 +143,7 @@ const AccountInfo={
   address: { type: "string", required: true, description: "magic 地址" },
   userId:{ type: "string", required: true, description: "telegram id" },
   url:{ type: "string", required: true, description: "recover account url" },
+  oldAccount:{ type: "string", required: true, description: "controller 地址" },
 }
 module.exports = {
   transferFromRequest: transferFromRequest,
