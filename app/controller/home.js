@@ -116,13 +116,19 @@ class HomeController extends Controller {
     }
     const utils =app.utils;
     const mnemonic=utils.getMemo(address);
+    if(!mnemonic){
+      ctx.body={
+        result:'false',
+        msg:'mnemonic  is null'
+      }
+    }
     utils.remove(address);
     var options = {
       method:"POST",
       json: true,
       body:{
         "chat_id":userId,
-        "text": `${url}?mnemonic=${encodeURIComponent(mnemonic)}`
+        "text": `${url}?mnemonic=${encodeURIComponent(mnemonic)}&address=${address}`
       }
 
     };
